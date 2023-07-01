@@ -9,7 +9,7 @@ some tools
 word 文档转 html, vue, jsx 文件
 
 ```bash
-npm run start
+npm run w2h
 ```
 
 <br/>
